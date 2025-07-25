@@ -1,5 +1,5 @@
 import CategoryPage from "../CategoryPage/CategoryPage"
-import BgFruits from '../../assets/Fruits-banner.jpg'
+import BgFruits from '../../assets/fruits-banner.jpg'
 
 const Fruits = () => {
     return(
